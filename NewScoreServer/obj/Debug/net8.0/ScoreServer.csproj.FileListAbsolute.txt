@@ -1,0 +1,14 @@
+C:\Users\fb923\RiderProjects\ScoreServer\bin\Debug\net8.0\ScoreServer.exe
+C:\Users\fb923\RiderProjects\ScoreServer\bin\Debug\net8.0\ScoreServer.deps.json
+C:\Users\fb923\RiderProjects\ScoreServer\bin\Debug\net8.0\ScoreServer.runtimeconfig.json
+C:\Users\fb923\RiderProjects\ScoreServer\bin\Debug\net8.0\ScoreServer.dll
+C:\Users\fb923\RiderProjects\ScoreServer\bin\Debug\net8.0\ScoreServer.pdb
+C:\Users\fb923\RiderProjects\ScoreServer\obj\Debug\net8.0\ScoreServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fb923\RiderProjects\ScoreServer\obj\Debug\net8.0\ScoreServer.AssemblyInfoInputs.cache
+C:\Users\fb923\RiderProjects\ScoreServer\obj\Debug\net8.0\ScoreServer.AssemblyInfo.cs
+C:\Users\fb923\RiderProjects\ScoreServer\obj\Debug\net8.0\ScoreServer.csproj.CoreCompileInputs.cache
+C:\Users\fb923\RiderProjects\ScoreServer\obj\Debug\net8.0\ScoreServer.dll
+C:\Users\fb923\RiderProjects\ScoreServer\obj\Debug\net8.0\refint\ScoreServer.dll
+C:\Users\fb923\RiderProjects\ScoreServer\obj\Debug\net8.0\ScoreServer.pdb
+C:\Users\fb923\RiderProjects\ScoreServer\obj\Debug\net8.0\ScoreServer.genruntimeconfig.cache
+C:\Users\fb923\RiderProjects\ScoreServer\obj\Debug\net8.0\ref\ScoreServer.dll
